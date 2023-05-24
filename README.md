@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://lunar-lofi.vercel.app/).
+Try this [Lunar Lofi](https://lunar-lofi.vercel.app/).
 
 ## Available Scripts
 
